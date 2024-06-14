@@ -12,7 +12,7 @@ export default function TagCard() {
 						— Ponta pé inicial
 					</h1>	
 					<p>
-						Ainda em um estágio embrionário, foi na TAG Livros que tive meu primeiro contato com influenciadores como um "braço" para campanhas de marketing - e foi nesse momento que entendi quais seriam os meus próximos passos. Assumindo uma área, função e atividade que poucos tinham desbravado na empresa, tive a oportunidade de criar, encabeçar e estabelecer o marketing de influência como um estratégia de conversão e awareness para as campanhas de mídia da empresa. 
+						Ainda em um estágio embrionário, foi na TAG Livros que tive meu primeiro contato com influenciadores como um braço para campanhas de marketing - e foi nesse momento que entendi quais seriam os meus próximos passos. Assumindo uma área, função e atividade que poucos tinham desbravado na empresa, tive a oportunidade de criar, encabeçar e estabelecer o marketing de influência como um estratégia de conversão e awareness para as campanhas de mídia da empresa. 
 					</p>
 				</div>
 			</div>

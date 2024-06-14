@@ -33,8 +33,8 @@ export default function Home() {
           Trabalhos
         </h1>
         <div className="w-full p-4 lg:px-12 flex flex-col lg:flex-row gap-6 lg:gap-4">
-          <TagCard />
-          <Bit2meCard />
+          {/*<TagCard />
+          <Bit2meCard />*/}
         </div>
       </section>
     </main>
