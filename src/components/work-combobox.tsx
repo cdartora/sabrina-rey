@@ -61,7 +61,7 @@ export default function WorkCombobox() {
         <Command>
           <CommandList>
             <CommandGroup>
-              {works.map((work: {label: String, value: String}) => (
+              {works.map((work: {label: string, value: string}) => (
               <CommandItem
                   key={work.value}
                   value={work.value}

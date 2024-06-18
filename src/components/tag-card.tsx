@@ -18,7 +18,7 @@ export default function TagCard() {
 			</div>
 
 			<div className="self-end p-4 w-full">
-				<NavButton path="tag" />
+				<NavButton path="tag" text="Trajetória completa aqui!" />
 			</div>
 	
 		</div>
